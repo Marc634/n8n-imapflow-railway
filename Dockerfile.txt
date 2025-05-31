@@ -1,0 +1,4 @@
+FROM n8nio/n8n
+
+# Instaluj ImapFlow
+RUN npm install imapflow
